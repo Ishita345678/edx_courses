@@ -12,14 +12,14 @@
       "certification" : "free"
     }
      {
-      "id" :  1,
+      "id" :  15,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "Python Basics for Data Science"
       "link" : "https://www.udemy.com/course/web-design-secrets/"
       "difficulty" : "beginner",
       "module_number" : 8,
-      "certification" : "paid"
+      "certification" : "free"
     },
     
   ]
